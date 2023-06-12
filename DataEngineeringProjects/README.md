@@ -1,5 +1,9 @@
 # Data Engineering Project
 
+This project is part of the learning path for taught by Data Growth Community, specifically for the Data Engineer profile. DGC is a data science and Big Data study community with greater scope and potential in young professionals from all over Latin America.
+
+![DGC_logo](Images/DGC_Logo.jpg)
+
 ## Description
 
 This project aimed to migrate data from a relational database to Hive, and subsequently perform value analysis using data visualization tools like Power BI.
